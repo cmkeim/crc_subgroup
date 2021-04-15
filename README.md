@@ -4,4 +4,4 @@ for "solid tissue normal" and "primary tumor" are downloaded and afterwards a di
 
 READ_final_V2_compact.py: Queries the READ project using python
 COAD_final_V2_compact.py: Queries the COAD project using python
-READ_htseqCounts_Analysis_V2.r: Analysis DGE of READ files between Noraml tissue and primary tumor using R
+READ_htseqCounts_Analysis_V2.r: Analysis DGE of READ files between normal tissue and primary tumor using R

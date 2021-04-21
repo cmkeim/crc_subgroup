@@ -1,4 +1,4 @@
-# -crc_subgroup
+# crc_subgroup
 This repository contains scripts for querying the TCGA database and extracting data for COAD & READ projects. Files of patients from these projects having transcriptome data (HTseq.count) 
 for "solid tissue normal" and "primary tumor" are downloaded and afterwards a differential geneexpression analysis will be performed in R with the DSEq2 pipline.
 
